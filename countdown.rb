@@ -2,7 +2,7 @@
 
 number = 30
 
-def countdown
+def countdown(number)
   while x > 0
     "#{number} SECONDS!"
     number -= 1
